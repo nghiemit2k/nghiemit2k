@@ -1,6 +1,6 @@
 # 💫About Me :
-Hi, Im Nghiem ^-^
-I'm a freelancer as a software development.
+# Hi, Im Nghiem ^-^
+# I'm a freelancer as a software development.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Nghiemit2k) 
